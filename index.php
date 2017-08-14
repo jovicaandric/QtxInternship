@@ -13,5 +13,6 @@
 </head>
 <body>
 <h1><?php echo "Hello world"; ?></h1>
+<p><?php echo "Test"; ?></p>
 </body>
 </html>
