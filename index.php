@@ -6,4 +6,12 @@
  * Time: 11:02 AM
  */
 
-echo "HELLO WORLD!!!";
+?>
+<html>
+<head>
+
+</head>
+<body>
+<h1><?php echo "Hello world"; ?></h1>
+</body>
+</html>
